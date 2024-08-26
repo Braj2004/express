@@ -17,6 +17,7 @@
 * [TC (Technical Committee)](#tc-technical-committee)
 * [Triagers](#triagers)
 * [License](#license)
+* #brajnandan prasad
 
 
 [![NPM Version][npm-version-image]][npm-url]
